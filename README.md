@@ -2,7 +2,7 @@
 
 
 
-Utilizando uma API pública , foi feito uma extração dos dados de endereços adicionando os mesmos a uma base de dados já existente e também da cotação do dólar.
+Utilizando uma API pública, foi feito uma extração dos dados de endereços adicionando os mesmos a uma base de dados já existente e também da cotação do dólar.
 
 Após o processo de entração foi necessário tratar dados, como preencher valores ausentes, inconsistentes, corrigir e adequar algumas informações.
 
